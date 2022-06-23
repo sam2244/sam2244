@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
-![sam2244's github stats](https://github-readme-stats.vercel.app/api?username=sam2244ju&show_icons=true&hide_border=true)
+![sam2244's github stats](https://github-readme-stats.vercel.app/api?username=sam2244&show_icons=true&hide_border=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsam2244&count_bg=%234498FF&title_bg=%23555555&icon=flutter.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
