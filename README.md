@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sangyoon Han&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SangyoonHan&fontSize=90)
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
